@@ -9,6 +9,9 @@ The unique customizable 2D Cellular Automata (Conway's Game of Life) with maximu
 
 Youtube description: https://youtu.be/s14L0NmJFJQ
 
+![Software preview](https://github.com/vivekmathema/ANDROMATA/tree/master/images/cover.jpg)
+
+
 
 Main Features of AndroMata is summarized below:
 
