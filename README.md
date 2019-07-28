@@ -10,15 +10,16 @@ The unique customizable 2D Cellular Automata (Conway's Game of Life) with maximu
 
 Main Features of AndroMata is summarized below:
 
->>User defined Cell grid (Size) for optimum space and growth of the cellular complexity.
+
+1) User defined Cell grid (Size) for optimum space and growth of the cellular complexity.
 2D-cellular automata with user-defined maximum generation.
->>Exclusively built-in genuine Artificial intelligence (AI) algorithm to spontaneously live track and quantify the maximum growth area within the cell grid/space
->>Built-in AI algorithm to track series of repeats (oscillations) of up to 2-6 sequences/harmonics which is very useful to avoid infinite looping.
->>Option to detect and auto-restart new simulation upon detection of infinite repetition.
->>Live graphs (bar chart, growth curves, pi-charts) of growth characteristics of the simulation
->>Option to export the vital information of entire CA growth log into plain text “.CVS” (Comma Separated Values) files which can be further utilized for in-depth processing.
->>Option to capture high quality cell grid screen to make easy documentation.
->>Optimum memory management to avoid excess use of CPU and RAM.
->>Completely Offline & free of irritating advertisement with built-in tutorials.
->>Built-in error handeling to minimize input-related errors.
+2) Exclusively built-in genuine Artificial intelligence (AI) algorithm to spontaneously live track and quantify the maximum growth area within the cell grid/space
+3) Built-in AI algorithm to track series of repeats (oscillations) of up to 2-6 sequences/harmonics which is very useful to avoid infinite looping.
+4) Option to detect and auto-restart new simulation upon detection of infinite repetition.
+5)Live graphs (bar chart, growth curves, pi-charts) of growth characteristics of the simulation
+6)Option to export the vital information of entire CA growth log into plain text “.CVS” (Comma Separated Values) files which can be further utilized for in-depth processing.
+7)Option to capture high quality cell grid screen to make easy documentation.
+8)Optimum memory management to avoid excess use of CPU and RAM.
+9)Completely Offline & free of irritating advertisement with built-in tutorials.
+10)Built-in error handeling to minimize input-related errors.
 More advance features are in development process and will be updated in near future. Your support by downloading the program and would be highly appreciated.
