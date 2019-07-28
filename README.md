@@ -1,4 +1,4 @@
-#2D Cellular Automata (AndroMATA) Pro v0.1
+**2D Cellular Automata (AndroMATA) Pro v0.1**
 
 Introduction
 Cellular Automata is a mathematical modeling concept used for studying growth characteristics, particle automata, homogeneous structures, cancer growth, cellular structures, and pseudo-random arrays. The entity denoted as cells are organized in a grid, such that each cell changes state as a function of time according to a defined set of rules that includes the states of neighboring cells. Cellular automata have been suggested for generation of public key cryptography and are widely used for creating pseudo-random numbers and sequences.
@@ -20,7 +20,7 @@ Some Screenshots with Graphic Charts Real-time display
 
 
 
-##Main Features of AndroMata is summarized below:
+**Main Features of AndroMata is summarized below:**
 
 1) User defined Cell grid (Size) for optimum space and growth of the cellular complexity.
 2D-cellular automata with user-defined maximum generation.
