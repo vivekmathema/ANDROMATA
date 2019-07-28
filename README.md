@@ -6,3 +6,19 @@ It’s a great and useful tool if you are a computerphile or numberphile. In add
 Advance 2D Cellular Automata for android (AndroMATA v0.1) is android version of simple yet versatile version of cellular automata which is compact but customizable for user-defined grid size, generation time and multiple other advance features
 
 The unique customizable 2D Cellular Automata (Conway's Game of Life) with maximum growth density tracking, statistics and repeater detection and data export option,. Best for Numberphiles, computational biologist and anyone who loves computation. Please tryout our free app (Lite version) if you are in doubt.
+
+
+Main Features of AndroMata is summarized below:
+
+>>User defined Cell grid (Size) for optimum space and growth of the cellular complexity.
+2D-cellular automata with user-defined maximum generation.
+>>Exclusively built-in genuine Artificial intelligence (AI) algorithm to spontaneously live track and quantify the maximum growth area within the cell grid/space
+>>Built-in AI algorithm to track series of repeats (oscillations) of up to 2-6 sequences/harmonics which is very useful to avoid infinite looping.
+>>Option to detect and auto-restart new simulation upon detection of infinite repetition.
+>>Live graphs (bar chart, growth curves, pi-charts) of growth characteristics of the simulation
+>>Option to export the vital information of entire CA growth log into plain text “.CVS” (Comma Separated Values) files which can be further utilized for in-depth processing.
+>>Option to capture high quality cell grid screen to make easy documentation.
+>>Optimum memory management to avoid excess use of CPU and RAM.
+>>Completely Offline & free of irritating advertisement with built-in tutorials.
+>>Built-in error handeling to minimize input-related errors.
+More advance features are in development process and will be updated in near future. Your support by downloading the program and would be highly appreciated.
